@@ -1,0 +1,22 @@
+{
+  "timestamp": 1792923183341,
+  "last_called": null,
+  "queue": [
+    {"token":"TK-102","severity":4,"waitTime":38,"score":45.0,"doctor":"Dr. Sharma","room":"Room 101"},
+    {"token":"TK-105","severity":4,"waitTime":38,"score":45.0,"doctor":"Dr. Patel","room":"Room 103"},
+    {"token":"TK-113","severity":4,"waitTime":38,"score":45.0,"doctor":"Dr. Khan","room":"Room 107"},
+    {"token":"TK-109","severity":4,"waitTime":38,"score":45.0,"doctor":"Dr. Rao","room":"Room 105"},
+    {"token":"TK-107","severity":3,"waitTime":38,"score":35.0,"doctor":"Dr. Iyer","room":"Room 104"},
+    {"token":"TK-111","severity":3,"waitTime":38,"score":35.0,"doctor":"Dr. Chatterjee","room":"Room 106"},
+    {"token":"TK-114","severity":3,"waitTime":38,"score":35.0,"doctor":"Dr. Khan","room":"Room 107"},
+    {"token":"TK-103","severity":3,"waitTime":38,"score":35.0,"doctor":"Dr. Verma","room":"Room 102"},
+    {"token":"TK-106","severity":2,"waitTime":38,"score":25.0,"doctor":"Dr. Patel","room":"Room 103"},
+    {"token":"TK-112","severity":2,"waitTime":38,"score":25.0,"doctor":"Dr. Chatterjee","room":"Room 106"},
+    {"token":"TK-101","severity":2,"waitTime":38,"score":25.0,"doctor":"Dr. Sharma","room":"Room 101"},
+    {"token":"TK-115","severity":2,"waitTime":38,"score":25.0,"doctor":"Dr. Gupta","room":"Room 108"},
+    {"token":"TK-108","severity":2,"waitTime":38,"score":25.0,"doctor":"Dr. Iyer","room":"Room 104"},
+    {"token":"TK-116","severity":1,"waitTime":38,"score":15.0,"doctor":"Dr. Gupta","room":"Room 108"},
+    {"token":"TK-104","severity":1,"waitTime":38,"score":15.0,"doctor":"Dr. Verma","room":"Room 102"},
+    {"token":"TK-110","severity":1,"waitTime":38,"score":15.0,"doctor":"Dr. Rao","room":"Room 105"}
+  ]
+}
